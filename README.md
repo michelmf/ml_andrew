@@ -14,7 +14,7 @@ By the end of this specialization, students will have mastered key concepts and 
 
 There are three courses in this specialization:
 
-*  Supervised Machine Learning: Regression and Classification
+* Supervised Machine Learning: Regression and Classification
 
 * Advanced Learning Algorithms
 
@@ -50,3 +50,7 @@ This specialization is taught using the Python Programming Language. Some packag
 * XGboost
 * Tensorflow
 * Jupyter Notebook
+
+# Certificates 
+
+* Course certificate from course 1 (Supervised Machine Learning: Regression and Classification) - https://www.coursera.org/account/accomplishments/certificate/CC5CZ5F7QK66
