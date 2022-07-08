@@ -1,8 +1,12 @@
 # Machine Learning Specialization @ DeepLearning.AI
 
-Link to the specialization @ Coursera - [Link](https://www.coursera.org/specializations/machine-learning-introduction)
+Link to the specialization - [Link](https://www.coursera.org/specializations/machine-learning-introduction)
 
-The Machine Learning Specialization is a foundational online program created in collaboration between DeepLearning.AI and Stanford Online. This beginner-friendly program will teach you the fundamentals of machine learning and how to use these techniques to build real-world AI applications.
+[![Foo](https://miro.medium.com/max/1400/1*qsXn4KBQjPj3RpUKJvjmjQ.png)]()
+
+## About the specialization
+
+The Machine Learning Specialization is a foundational online program created in collaboration between DeepLearning.AI and Stanford Online. This beginner-friendly program teaches the fundamentals of machine learning and how to use these techniques to build real-world AI applications.
 
 This specialization is taught by Andrew Ng, an AI visionary who has led critical research at Stanford University and groundbreaking work at Google Brain, Baidu, and Landing.AI to advance the AI field.
 
@@ -15,32 +19,23 @@ By the end of this specialization, students will have mastered key concepts and 
 There are three courses in this specialization:
 
 * Supervised Machine Learning: Regression and Classification
-
 * Advanced Learning Algorithms
-
 * Unsupervised Learning, Recommenders, Reinforcement Learning
 
-# Outcomes From this specialization
+## Outcomes
 
 By the end of this Specialization, students will be ready to:
 
-• Build machine learning models in Python using popular machine learning libraries NumPy and scikit-learn.
+* Build machine learning models in Python using popular machine learning libraries NumPy and scikit-learn.
+* Build and train supervised machine learning models for prediction and binary classification tasks, including linear regression and logistic regression.
+* Build and train a neural network with TensorFlow to perform multi-class classification.
+* Apply best practices for machine learning development so that your models generalize to data and tasks in the real world.
+* Build and use decision trees and tree ensemble methods, including random forests and boosted trees.
+* Use unsupervised learning techniques for unsupervised learning: including clustering and anomaly detection.
+* Build recommender systems with a collaborative filtering approach and a content-based deep learning method.
+* Build a deep reinforcement learning model.
 
-• Build and train supervised machine learning models for prediction and binary classification tasks, including linear regression and logistic regression.
-
-• Build and train a neural network with TensorFlow to perform multi-class classification.
-
-• Apply best practices for machine learning development so that your models generalize to data and tasks in the real world.
-
-• Build and use decision trees and tree ensemble methods, including random forests and boosted trees.
-
-• Use unsupervised learning techniques for unsupervised learning: including clustering and anomaly detection.
-
-• Build recommender systems with a collaborative filtering approach and a content-based deep learning method.
-
-• Build a deep reinforcement learning model.
-
-# Technologies used
+## Technologies used
 
 This specialization is taught using the Python Programming Language. Some packages used during this course:
 
@@ -51,6 +46,6 @@ This specialization is taught using the Python Programming Language. Some packag
 * Tensorflow
 * Jupyter Notebook
 
-# Certificates 
+## Certificates 
 
 * Course certificate from course 1 (Supervised Machine Learning: Regression and Classification) - https://www.coursera.org/account/accomplishments/certificate/CC5CZ5F7QK66
